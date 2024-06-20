@@ -1,1 +1,2 @@
 # yolo
+pip install ultralytics
